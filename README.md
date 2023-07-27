@@ -1,6 +1,6 @@
 ## Restaurant - ShorteatsProducer
 
-My Git repo with Eclipse. Shorteats Producer process. 
+
 
 Here, it was intended to encompass the process within a restaurant.By doing this, the restaurant's culinary items and the patrons who
 purchase them will have a better relationship. This system has the ability to compute and show the costs of the customers' purchased food products.
