@@ -1,7 +1,6 @@
 ## Restaurant - ShorteatsProducer
 
 
-
 Here, it was intended to encompass the process within a restaurant.By doing this, the restaurant's culinary items and the patrons who
 purchase them will have a better relationship. This system has the ability to compute and show the costs of the customers' purchased food products.
 When a consumer adds food items to their cart, there is either a floating cart icon or a popup that indicates "Added to cart" occurs. 
