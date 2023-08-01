@@ -7,9 +7,9 @@ My Git repo with Eclipse. Shorteats Producer process.In any case, consumers may 
 
 
 
-                                            There are four main Components I identified in this system
+                                        There are four main Components I identified in this system
                                                
-                                                   •	Request & View For Foods
-                                                   •	Order Food List
-                                                   •	Price Calculation
-                                                   •	Make Necessary Pyment
+                                               •	Request & View For Foods
+                                               •	Order Food List
+                                               •	Price Calculation
+                                               •	Make Necessary Pyment
