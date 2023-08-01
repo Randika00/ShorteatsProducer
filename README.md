@@ -7,9 +7,9 @@ My Git repo with Eclipse. Shorteats Producer process.In any case, consumers may 
 
 
 
-                                               There are four main Components we identified in this system
+                                               There are four main Components I identified in this system
                                                
-                                                      •	Apply For Surgery 
-                                                      •	Order Prescription
-                                                      •	Make an doctor Appointment
-                                                      •	Request Emergency Service
+                                                      •	Request & View For Foods
+                                                      •	Order Food List
+                                                      •	Price Calculation
+                                                      •	Make Necessary Pyment
